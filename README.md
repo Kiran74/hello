@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 - one
 - two
-- [Google](https://google.com)
+[Google](https://google.com)
 - Bulleted
 - List
 
